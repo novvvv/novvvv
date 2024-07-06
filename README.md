@@ -7,9 +7,9 @@
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
 
-<p>cite</p>
+<p>✨ cite</p>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nov2pro)](https://solved.ac/nov2pro)
-<a href="링크"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://novlog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 </div>
