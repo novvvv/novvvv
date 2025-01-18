@@ -1,5 +1,6 @@
 <div align="center"><p>✨ About Me </p>
 <p>初めまして、日本でBack-End Developerで働くために勉強しています。</p>
+<p>日本語を学ぶ韓国の人達をために日本語の勉強アプリケーションを開発しています。</p>
   
 <div align="center"><p>✨ Tech Stacks</p>
 
