@@ -1,4 +1,6 @@
-
+<div align="center"><p>✨ About Me </p>
+<p>初めまして、日本でBack-End Developerで働くために勉強しています。</p>
+  
 <div align="center"><p>✨ Tech Stacks</p>
 
 ![js](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
