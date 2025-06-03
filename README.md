@@ -4,12 +4,12 @@
 <p>안녕하세요. 일본에서 Back-end 개발자로 일하기 위해 공부하고 있습니다. <br>
 한국의 일본어 학습자를 위한 어플리케이션을 개발중에 있습니다.</p>
 
-<div> 2020.11.30 K-Cyber Security Challenge AI 악성코드 탐지부분 충청권 지역예선 1등 수상 <div><br>
-<div> 2021.09 ~ 2023.06 Korea Air Force 군복무 <div><br>
-<div> 2023.11 JLPT N1 취득 <div><br>
-<div> 2024.01 ~ 2024.11.30 프로보노 ICT AI 청각 장애인을 위한 음성 판별 프로젝트 입선 <div><br>
-<div> 2025.04 ~ Nimda Security 동아리 회장 임원 & 알고리즘 PS 멘토링 <div><br>
-<div> 2025.04 ~ Next.js + LLM RAG Rangchain 일본어 학습 튜터링 산학 과제 프로젝트 <div>
+<p> 2020.11.30 K-Cyber Security Challenge AI 악성코드 탐지부분 충청권 지역예선 1등 수상<br>
+2021.09 ~ 2023.06 Korea Air Force 군복무<br>
+2023.11 JLPT N1 취득<br>
+2024.01 ~ 2024.11.30 프로보노 ICT AI 청각 장애인을 위한 음성 판별 프로젝트 입선<br>
+2025.04 ~ Nimda Security 동아리 회장 임원 & 알고리즘 PS 멘토링<br>
+2025.04 ~ Next.js + LLM RAG Rangchain 일본어 학습 튜터링 산학 과제 프로젝트</p>
   
 <div align="center"><h4>🛠️ Tech Stacks</h4>
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
