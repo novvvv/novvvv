@@ -8,6 +8,7 @@
 <p> Language </p>
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/dart-#0175C2?style=flat&logo=c%2B%2B&logoColor=white"> 
 <p>✨ SNS </p>
 <a href="https://novlog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
