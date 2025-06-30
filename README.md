@@ -10,7 +10,6 @@
 
 <h4> 📁 Project & record </h4>
 
-`2021.09` ~ `2023.06` Korea Air Force Programming Study 운영<br>
 `2025.04` ~ Nimda Security 동아리 회장 임원 & 알고리즘 PS 멘토링<br>
 `2025.04` ~ Next.js + LLM RAG Rangchain 일본어 학습 튜터링 산학 과제 프로젝트</p>
 
