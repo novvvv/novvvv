@@ -14,6 +14,7 @@
 `2025.04` ~ Nimda Security 동아리 회장 임원 & 알고리즘 PS 멘토링<br>
 `2025.04` ~ `2025.11` ~ Next.js + LLM RAG Rangchain 일본어 학습 튜터링 산학 과제 프로젝트<br>
 `2025.09` ~ `ing` ~ Spring + MySql Nimda Security Web Page Project</p>
+`2025.09` ~ `ing` ~ Android + Spring + MySql 망각곡선 단어장 VoPet Project Project</p>
 
 ---  
 <div align="center"><h4>🛠️ Tech Stacks</h4>
