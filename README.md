@@ -8,9 +8,9 @@
 ---
 
 <h4> Introduction </h4>
-안녕하세요. 일본 IT 기업에서 백엔드 개발자로 성장하기 위해 준비 중입니다.  <br>
+안녕하세요. 백엔드 개발자를 목표로 학습중인 최도일입니다.  <br>
 학습자가 겪는 실질적인 불편함을 해결하기 위해 일본어 학습 관련 서비스를 꾸준히 제작하고 있으며 <br>
-4년간의 기술 블로그 운영을 통해 기록의 가치를 실천하고 있습니다. <br>
+4년간의 기술 블로그 운영을 통해 기록의 가치를 실천하고 있습니다. <br><br>
 
 JP: 日本でのバックエンドエンジニア就職を目指しているチェ・ドイルと申します。<br>
 自身の学習経験を活かし、韓国の日本語学習者のためのサービス開発に取り組んでいます。 <br>
@@ -18,7 +18,7 @@ JP: 日本でのバックエンドエンジニア就職を目指しているチ�
   
 ---
 
-<h4> Project  </h4>
+<h4> Project </h4>
 
 Nimda Web Cite <br>
 Feature : 교내 동아리 내부 알고리즘 대회 사이트 및 커뮤니티 Team Project <br>
@@ -42,6 +42,8 @@ Tech : Java, Spring Boot, MySQL, JPA, AWS EC2/RDS <br>
 Date : `2025.09` ~ `2025.11` <br>
 Description : Flutter를 이용한 크로스 플랫폼 리팩토링 및 데스크탑 허브 연동 진행 중 
 
+<img width="1682" height="1824" alt="img_1_vopack" src="https://github.com/user-attachments/assets/a44fa4cd-b158-4aef-b516-8dd958655071" />
+
 RAG Blog (Web/AI) <br>
 Feature : 블로그 게시글을 실시간 임베딩하여 사용자 질문에 자동 응대하는 AI 챗봇 결합형 사이트 <br>
 Tech : Next.js, FastAPI, RAG, ChromaDB, LangChain <br>
@@ -54,6 +56,7 @@ Date : `2025.07` ~ `ing`
 - Probono ICT Mentoring 사회적 약자 부문 앱개발 공모전 입선 (2024) <br>
 - 인공지능 기반 청각 보조 애플리케이션 개발 및 적용 연구 KIPS (2024) <br>
 - HTML 청킹 구조를 고려한 RAG 기술 블로그 연구 (2025) <br>
+
 
 <h4> Experience </h4>
 - Nimda Security 프로그래밍 동아리 회장 (2024.12 ~ 2025.12) : 교내 정보보호 동아리 운영 및 관리 <br>
