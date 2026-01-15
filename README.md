@@ -20,6 +20,22 @@ JP: 日本でのバックエンドエンジニア就職を目指しているチ�
 
 <h4> Project  </h4>
 
+Nimda Web Cite <br>
+Feature : 교내 동아리 내부 알고리즘 대회 사이트 및 커뮤니티 Team Project <br>
+Role : Team Leader, BackEnd
+Tech : Spring Boot, JPA, MySql, AWS EC2, RDS, Java
+Date : `2025.09` ~ `2025.11` <br>
+Description : 커뮤니티 기능 추가를 위한 리팩토링 진행중 <br>
+
+
+Vopack Desktop (Frontend/Electron) <br>
+Feature : Vopack Mobile, RAG Blog 등 일본어 단어 관리 학습 허브 데스크탑 프로그램. <br>
+Tech : Electron, React, Html, Css, Js <br>
+Date : `2026.01` ~ ing <br>
+Description : 상용화를 위한 개발 진행중 <br>
+
+<img width="1390" height="827" alt="스크린샷 2026-01-15 12 14 39" src="https://github.com/user-attachments/assets/9460b89a-4f4a-45fd-8bba-3d2fbb53db1b" />
+
 Vopack Mobile (Android/Backend) <br>
 Feature : 크롬 익스텐션과 연동하여 웹에서 번역한 단어를 실시간으로 모바일 단어장에 저장합니다. <br>
 Tech : Java, Spring Boot, MySQL, JPA, AWS EC2/RDS <br>
