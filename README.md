@@ -42,7 +42,7 @@ Tech : Java, Spring Boot, MySQL, JPA, AWS EC2/RDS <br>
 Date : `2025.09` ~ `2025.11` <br>
 Description : Flutter를 이용한 크로스 플랫폼 리팩토링 및 데스크탑 허브 연동 진행 중 
 
-<img width="1682" height="1824" alt="img_1_vopack" src="https://github.com/user-attachments/assets/a44fa4cd-b158-4aef-b516-8dd958655071" />
+<img width="841" height="912" alt="img_1_vopack" src="https://github.com/user-attachments/assets/a44fa4cd-b158-4aef-b516-8dd958655071" />
 
 RAG Blog (Web/AI) <br>
 Feature : 블로그 게시글을 실시간 임베딩하여 사용자 질문에 자동 응대하는 AI 챗봇 결합형 사이트 <br>
