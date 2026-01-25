@@ -34,7 +34,8 @@ Tech : Electron, React, Html, Css, Js <br>
 Date : `2026.01` ~ ing <br>
 Description : 상용화를 위한 개발 진행중 <br>
 
-<img width="1390" height="827" alt="스크린샷 2026-01-15 12 14 39" src="https://github.com/user-attachments/assets/9460b89a-4f4a-45fd-8bba-3d2fbb53db1b" />
+<img width="1073" height="689" alt="image" src="https://github.com/user-attachments/assets/8f9c1d0d-6fdc-4d5d-90a2-456d2da6c26e" />
+
 
 Vopack Mobile (Android/Backend) <br>
 Feature : 크롬 익스텐션과 연동하여 웹에서 번역한 단어를 실시간으로 모바일 단어장에 저장합니다. <br>
