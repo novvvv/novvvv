@@ -1,5 +1,4 @@
-<div align="center"><p>Doil Choi チェ・ドイル </p>
-<p> 데이터의 흐름과 사용자 경험에 집중하는 백엔드 개발자 최도일입니다.</p>
+
 - Tech Blog : NovLog (Total View 410,000+) <br>
 - Language : JLPT N1 151 <br>
 - Education : Kongju National University Computer Science GPA 4.0/4.5 <br>
