@@ -1,65 +1,51 @@
-
-- Tech Blog : NovLog (Total View 410,000+) <br>
-- Language : JLPT N1 151 <br>
-- Education : Kongju National University Computer Science GPA 4.0/4.5 <br>
-- Contact : dohana1205@gmail.com  <br>
-
----
-
 <h4> Introduction </h4>
-JP: 日本でのバックエンドエンジニア就職を目指しているドイルと申します。<br>
-自身の学習経験を活かし、韓国の日本語学習者のためのサービス開発に取り組んでいます。 <br>
-4年間の技術ブログ運営と21ヶ月間のメンター活動を通じて培ったエンジニアリングへの姿勢を大切にしています。<br>
-  
+Kongju National University Computer Science GPA 3.9/4.5 (2020.03 ~ 在学中) <br>
+<a href="https://novlog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a> Tech Blog Total View 418K <br>
+
+<h4> Tech Stacks </h4>
+<pr><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=next.js&logoColor=white"></pr>
+
+<h4> 受賞 (Award) </h4>
+🥇 K-Cyber Security Challenge AI-based malicious code detection No. 1 in the Chungcheong region <br>
+JP : K-Cyberセキュリティチャレンジ 忠清圏AI基盤悪性コード探知1位 (2020) <br><br>
+🥉 Probono ICT Mentoring a social sector app development contest <br>
+JP : ICTメンタリングソーシャル部門アプリ開発コンテスト (2024)
+
+<h4> 論文 (Paper) </h4>
+Study on AI-based hearing aid application and application KIPS  <br>
+JP : AIベース補聴器応用·応用KIP (2024) <br>
+
+<h4> 資格 (Certificate) </h4>
+JLPT N1 151 (2023.07) <br>
+SQLD (SQL Developer) (2025.07)
+情報処理技師 筆記試験 合格 (2026.05) <br>
+description : 現在は実技試験（7月二次試験）を準備しています <br>
+
+<h4> Experience </h4>
+[サークル] Nimda Security プログラミングサークル活動 (2020.12 ~ 2026) <br>
+[サークル] Nimda Security プログラミングサークル会長 (2024.12 ~ 2025.12) <br>
+[兵役] Korean Air Force 韓国空軍 (2021.09 ~ 2023.06) <br>
+
 ---
 
 <h4> Project </h4>
 
-Nimda Web Cite <br>
-Feature : 교내 동아리 내부 알고리즘 대회 사이트 및 커뮤니티 Team Project <br>
-Role : Team Leader, BackEnd
-Tech : Spring Boot, JPA, MySql, AWS EC2, RDS, Java
-Date : `2025.09` ~ `2025.11` <br>
-Description : 커뮤니티 기능 추가를 위한 리팩토링 진행중 <br>
-
-
-Vopack Mobile (Android/Backend) <br>
-Feature : 크롬 익스텐션과 연동하여 웹에서 번역한 단어를 실시간으로 모바일 단어장에 저장합니다. <br>
-Tech : Java, Spring Boot, MySQL, JPA, AWS EC2/RDS <br>
-Date : `2025.09` ~ `2025.11` <br>
-Description : Flutter를 이용한 크로스 플랫폼 리팩토링 및 데스크탑 허브 연동 진행 중 
+Nimda Security Comunity Web Cite <br>
+Link : nimda.kr <br>
+Feature : 校内サークル内部アルゴリズム大会サイトおよびコミュニティ <br>
+Role : Team Leader, BackEnd <br>
+Tech : Spring Boot, JPA, MySql, AWS LightSail, RDS, Java
+Date : `2025.09` ~ `2026.03` <br>
+Description : セキュリティ強化とコミュニティ機能追加のためのリファクタリングを進行中 <br>
 
 RAG Blog (Web/AI) <br>
-Feature : 블로그 게시글을 실시간 임베딩하여 사용자 질문에 자동 응대하는 AI 챗봇 결합형 사이트 <br>
+Feature : ユーザーの掲示文をリアルタイムで埋め合わせ、ユーザー質問に自動応対するAIチャットボット結合型ブログ <br>
 Tech : Next.js, FastAPI, RAG, ChromaDB, LangChain <br>
-Date : `2025.07` ~ `ing`
-
----  
-
-<h4> Awards & Research </h4>
-- K-Cyber Security 챌린지 AI기반 악성코드 탐지 충청권 지역예선 1위 (2020) <br>
-- Probono ICT Mentoring 사회적 약자 부문 앱개발 공모전 입선 (2024) <br>
-- 인공지능 기반 청각 보조 애플리케이션 개발 및 적용 연구 KIPS (2024) <br>
-- HTML 청킹 구조를 고려한 RAG 기술 블로그 연구 (2025) <br>
-
-
-<h4> Experience </h4>
-- Nimda Security 프로그래밍 동아리 회장 (2024.12 ~ 2025.12) : 교내 정보보호 동아리 운영 및 관리 <br>
-- Algorithm Programming Mentoring : 동아리원 대상 Java, Cpp 알고리즘 멘토링 진행 <br>
-
----
-
-<div align="center"><h4>🛠️ Tech Stacks</h4>
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white"><br>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=next.js&logoColor=white">
-  
-<h4>℡ SNS</4><br>
-<a href="https://novlog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nov2pro)](https://solved.ac/nov2pro)
+Role : 個人プロジェクト
+Date : `2025.07` ~ `2025.12`
+Description : 配布のためのクラウド配布とコードリファクタリングを進行中 <br>
 
 </div>
