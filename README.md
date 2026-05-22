@@ -2,12 +2,6 @@
 Kongju National University Computer Science GPA 3.9/4.5 (2020.03 ~ 在学中) <br>
 <a href="https://novlog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a> Tech Blog Total View 418K <br>
 
-<h4> Tech Stacks </h4>
-<pr><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=next.js&logoColor=white"></pr>
-
 <h4> 受賞 (Award) </h4>
 🥇 K-Cyber Security Challenge AI-based malicious code detection No. 1 in the Chungcheong region <br>
 JP : K-Cyberセキュリティチャレンジ 忠清圏AI基盤悪性コード探知1位 (2020) <br><br>
