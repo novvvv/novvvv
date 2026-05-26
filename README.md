@@ -10,7 +10,7 @@ JP : ICTメンタリングソーシャル部門アプリ開発コンテスト (2
 
 <h4> 論文 (Paper) </h4>
 KIPS - Study on AI-based hearing aid application and application KIPS  <br>
-JP : AIベース補聴器応用·応用KIP (2024) <br>
+JP : AIベース補聴器応用·応用KIP (2024) <br><br>
 
 KCC - Optimizing the performance of Korean language technology blog RAG through hierarchical chunking and hybrid search considering HTML structure <br>
 JP : HTML構造を考慮した階層的なチャンキングとハイブリッド検索を通じて韓国語技術ブログRAGの性能を最適化 <br>
