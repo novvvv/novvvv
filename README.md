@@ -58,7 +58,7 @@ SQLD (SQL Developer) (2025.09.19) <br>
 - Date : `2025.09` ~ `2026.03`
 - Description : Refactoring in progress to enhance security and add community capabilities
 
-<img width="1099" height="766" alt="스크린샷 2026-07-14 15 01 17" src="https://github.com/user-attachments/assets/d68b60e8-29ae-4903-b1b5-71eda22c331f" />
+<img width="800" height="558" alt="Nimda Community Web Site" src="https://github.com/user-attachments/assets/d68b60e8-29ae-4903-b1b5-71eda22c331f" />
 
 
 ### RAG Blog (Web/AI)
