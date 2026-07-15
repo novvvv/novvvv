@@ -24,7 +24,7 @@ KR : 프로보노 ICT 멘토링 사회적 약자 부문 입선 <br>
 KIPS 2024 - Development and Application of AI-based Hearing Assistance Application
 <a href="https://drive.google.com/file/d/1bvJHUd0QQY8eHsqgjDXobr71cdnTMqUX/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : AIを基盤とした聴覚支援アプリケーションの開発と適用に関する研究  <br>
-KR : 인공지능 기반 청각 보조 애플리케이션 개발 및 적용 연구  <br><br>
+KR : 인공지능 기반 청각 보조 애플리케이션 개발 및 적용 연구  <br>
 
 KCC 2026 - Optimizing the performance of Korean language technology blog RAG through hierarchical chunking and hybrid search considering HTML structure
 <a href="https://drive.google.com/file/d/1UIYkhRCvJBscMVo8JSdOh0AvGvovtWYz/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
@@ -57,9 +57,6 @@ SQLD (SQL Developer) (2025.09.19) <br>
 - Tech : Spring Boot, JPA, MySQL, AWS LightSail, RDS, Java
 - Date : `2025.09` ~ `2026.03`
 - Description : Refactoring in progress to enhance security and add community capabilities
-
-<img width="520" height="363" alt="Nimda Community Web Site" src="https://github.com/user-attachments/assets/d68b60e8-29ae-4903-b1b5-71eda22c331f" />
-
 
 ### RAG Blog (Web/AI)
 - Feature : AI Chatbot Combination Blog that automatically responds to user questions by making up for user posts in real time
