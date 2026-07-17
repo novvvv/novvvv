@@ -18,21 +18,18 @@ KR : K-Cyber 악성코드 탐지대회 충청권 지역 예선 1위 <br>
 🥉 Probono ICT Mentoring a social sector app development contest
 <a href="https://drive.google.com/file/d/1GhzAXxu4eC_ubEH597vgmuPmWr_GZekF/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : ICTメンタリングソーシャル部門アプリ開発コンテスト (2024) <br>
-KR : 프로보노 ICT 멘토링 사회적 약자 부문 입선 <br>
+KR : 프로보노 ICT 멘토링 사회적 약자 부문 입선 <br><br>
 
 <h2> Paper </h2>
 KIPS 2024 - Development and Application of AI-based Hearing Assistance Application
 <a href="https://drive.google.com/file/d/1bvJHUd0QQY8eHsqgjDXobr71cdnTMqUX/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : AIを基盤とした聴覚支援アプリケーションの開発と適用に関する研究  <br>
-KR : 인공지능 기반 청각 보조 애플리케이션 개발 및 적용 연구  <br>
-
+KR : 인공지능 기반 청각 보조 애플리케이션 개발 및 적용 연구  <br><br>
 KCC 2026 - Optimizing the performance of Korean language technology blog RAG through hierarchical chunking and hybrid search considering HTML structure
 <a href="https://drive.google.com/file/d/1UIYkhRCvJBscMVo8JSdOh0AvGvovtWYz/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : HTML構造を考慮した階層的なチャンキングとハイブリッド検索を通じて韓国語技術ブログRAGの性能を最適化<br>
 KR : HTML기반 한국어 기술 블로그 RAG 계층적 청킹 최적화
-
-<br>
-
+<br><br>
 DCS 2026 - AtCoder-based Corporate Algorithm Contest Characteristics Change Analysis
 <a href="https://drive.google.com/file/d/1kXiYSuYPrx-WHe7Ol9qLz_b2JzUQAA1T/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : AtCoder ベース企業アルゴリズムコンテスト 特性変化分析 <br>
