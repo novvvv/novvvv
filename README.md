@@ -9,10 +9,16 @@ Tech Blog Total View 418K <br>
 </div>
 
 <h2> Award </h2>
-🥇 K-Cyber Security Challenge AI-based malicious code detection No. 1 in the Chungcheong region
+
+🥉 K-Cyber Security Challenge AI-based malicious code detection No. 1 in the Chungcheong region
 <a href="https://drive.google.com/file/d/1yPq6ryp7eAoaVPyu5102u1wwmCiC6jOw/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : K-Cyberセキュリティチャレンジ 忠清圏AI基盤悪性コード探知1位 (2020) <br>
 KR : K-Cyber 악성코드 탐지대회 충청권 지역 예선 1위 <br>
+<br>
+
+🥇 BUSAN DIVE 2026 - 3rd Place (Jim Carry Sponsor Award)
+JP : データ活用アプリ開発ハッカソン 企業賞 3位 (2026) <br>
+KR : 부산시 데이터 활용 짐캐리 분야 3위 <br>
 <br>
 
 🥉 Probono ICT Mentoring a social sector app development contest
