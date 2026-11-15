@@ -12,23 +12,23 @@ Tech Blog Total View 418K <br>
 
 <h2> Award </h2>
 
-🥇 K-Cyber Security Challenge AI-based malicious code detection No. 1 in the Chungcheong region
+🥇 K-Cyber Security Challenge AI-based malicious code detection No. 1 in the Chungcheong region <br>
 <a href="https://drive.google.com/file/d/1yPq6ryp7eAoaVPyu5102u1wwmCiC6jOw/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : K-Cyberセキュリティチャレンジ 忠清圏AI基盤悪性コード探知1位 (2020) <br>
 KR : K-Cyber 악성코드 탐지대회 충청권 지역 예선 1위 <br>
 <br>
 
-🥉 BUSAN DIVE 2026 - 3rd Place (Jim Carry Sponsor Award)
+🥉 BUSAN DIVE 2026 - 3rd Place (Jim Carry Sponsor Award) <br>
 JP : データ活用アプリ開発ハッカソン 企業賞 3位 (2026) <br>
 KR : 부산시 데이터 활용 짐캐리 분야 3위 <br>
 <br>
 
-🥉 Excellence Award, 2026 Chungnam IT KotH Hacking Hackathon
+🥉 Excellence Award, 2026 Chungnam IT KotH Hacking Hackathon <br>
 JP : 2026 忠南（チュンナム）IT KotH ハッキングハッカソン 優秀賞 <br>
 KR : 2026년 충남IT 주최 공방전 형식(KotH) 해킹 해커톤에서 우수상 <br>
 <br>
 
-🥉 Probono ICT Mentoring a social sector app development contest
+🥉 Probono ICT Mentoring a social sector app development contest <br>
 <a href="https://drive.google.com/file/d/1GhzAXxu4eC_ubEH597vgmuPmWr_GZekF/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : ICTメンタリングソーシャル部門アプリ開発コンテスト (2024) <br>
 KR : 프로보노 ICT 멘토링 사회적 약자 부문 입선 <br><br>
