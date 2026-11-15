@@ -23,6 +23,11 @@ JP : データ活用アプリ開発ハッカソン 企業賞 3位 (2026) <br>
 KR : 부산시 데이터 활용 짐캐리 분야 3위 <br>
 <br>
 
+🥉 Excellence Award, 2026 Chungnam IT KotH Hacking Hackathon
+JP : 2026 忠南（チュンナム）IT KotH ハッキングハッカソン 優秀賞 <br>
+KR : 2026년 충남IT 주최 공방전 형식(KotH) 해킹 해커톤에서 우수상 <br>
+<br>
+
 🥉 Probono ICT Mentoring a social sector app development contest
 <a href="https://drive.google.com/file/d/1GhzAXxu4eC_ubEH597vgmuPmWr_GZekF/view?usp=sharing"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 JP : ICTメンタリングソーシャル部門アプリ開発コンテスト (2024) <br>
